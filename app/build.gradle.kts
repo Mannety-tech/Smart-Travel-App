@@ -7,7 +7,7 @@ plugins {
     id("com.google.gms.google-services")
 }
 
-// ✅ Load API key from local.properties safely
+//  Load API key from local.properties safely
 val localProps = Properties()
 localProps.load(rootProject.file("local.properties").inputStream())
 val MAPS_API_KEY: String = localProps.getProperty("MAPS_API_KEY") ?: ""
