@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "26258879678",
+    "project_id": "fir-project-7a7d1",
+    "storage_bucket": "fir-project-7a7d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26258879678:android:1ab42f6ed8ea1727e85aef",
+        "android_client_info": {
+          "package_name": "com.example.leedstrinity.firstpage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRnZu4vuBoDMMyINZdhdi3ZZ9C7IhyAy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26258879678:android:ea377d382a329b2ae85aef",
+        "android_client_info": {
+          "package_name": "com.example.leedstrinity.smarttravelappclean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRnZu4vuBoDMMyINZdhdi3ZZ9C7IhyAy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

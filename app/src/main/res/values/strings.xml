@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartTravelApp</string>
+
+    <!-- ADD THIS -->
+    <string name="google_maps_key">AIzaSyBBQ7GFpTg48Yk7S3dovxwZEjb1YqGA5aM</string>
+</resources>
+
